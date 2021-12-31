@@ -2,6 +2,14 @@
   margin-left: 10px;
 }
 
+#placar{
+  margin-left: 10px;
+}
+
+#score{
+  display: inline-block;
+}
+
 #reset-game{
   margin-left: 10px;
 }
