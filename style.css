@@ -1,0 +1,23 @@
+#answer{
+  margin-left: 10px;
+}
+
+#reset-game{
+  margin-left: 10px;
+}
+
+#rgb-color{
+  margin-left: 10px;
+  margin-top: 100px;
+}
+
+#color-board div{
+  display: inline-block;
+}
+
+.ball{
+  margin-left: 10px;
+  width: 50px;
+  height: 50px;
+  border-radius:100%;
+}
